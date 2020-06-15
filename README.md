@@ -1,2 +1,4 @@
-# soil-moisture-cal
-Capacitive soil moisture sensor calibration with Arduino and Python
+# Soil Moisture Sensor Calibration with Arduino
+Using the gravimetric method to calibrate a capacitive soil moisture sensor with an Arduino board
+
+![Arduino + Sensor Wiring](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1590622711213-VD9LBEVQMX3CFYBCR0GG/ke17ZwdGBToddI8pDm48kEoumxBTL0UGolEWVBoiqMV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0uN0nnuyYlMmBQSgz_9euuRumJ13WlPu-aG64ch8DNtSDGxITf5OzW_nhFmr2nsh1g/cap_soil_sensor_arduino_wiring.png?format=1500w)
